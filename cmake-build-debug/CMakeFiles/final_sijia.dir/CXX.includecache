@@ -1,0 +1,200 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/algoexecutionservice.h
+string
+-
+soa.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+marketdataservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/marketdataservice.h
+executionservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/executionservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/algostreamingservice.h
+streamingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/streamingservice.h
+products.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/products.h
+pricingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/pricingservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/bondexecutionservice.h
+executionservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/executionservice.h
+algoexecutionservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/algoexecutionservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/bondstreamingservice.h
+streamingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/streamingservice.h
+products.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/products.h
+algostreamingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/algostreamingservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/executionservice.h
+string
+-
+soa.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+marketdataservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/marketdataservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/historicaldataservice.h
+positionservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/positionservice.h
+riskservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/riskservice.h
+bondexecutionservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/bondexecutionservice.h
+streamingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/streamingservice.h
+inquiryservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/inquiryservice.h
+support.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/support.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/inquiryservice.h
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+soa.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+tradebookingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/tradebookingservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/main.cpp
+products.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/products.h
+tradebookingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/tradebookingservice.h
+positionservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/positionservice.h
+riskservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/riskservice.h
+pricingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/pricingservice.h
+historicaldataservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/historicaldataservice.h
+algostreamingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/algostreamingservice.h
+bondstreamingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/bondstreamingservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/marketdataservice.h
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+sstream
+-
+soa.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+products.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/products.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/positionservice.h
+iostream
+-
+string
+-
+map
+-
+soa.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+tradebookingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/tradebookingservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/pricingservice.h
+string
+-
+iostream
+-
+fstream
+-
+sstream
+-
+map
+-
+soa.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+products.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/products.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/products.h
+iostream
+-
+string
+-
+map
+-
+boost/date_time/gregorian/gregorian.hpp
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/boost/date_time/gregorian/gregorian.hpp
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/riskservice.h
+soa.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+positionservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/positionservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+vector
+-
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/streamingservice.h
+iostream
+-
+soa.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+marketdataservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/marketdataservice.h
+pricingservice.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/pricingservice.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/support.h
+vector
+-
+string
+-
+iostream
+-
+fstream
+-
+sstream
+-
+products.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/products.h
+
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/tradebookingservice.h
+iostream
+-
+string
+-
+vector
+-
+map
+-
+fstream
+-
+sstream
+-
+soa.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h
+products.h
+/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/products.h
+

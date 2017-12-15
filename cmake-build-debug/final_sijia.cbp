@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="final_sijia"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final_sijia">
+				<Option output="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/cmake-build-debug/final_sijia" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 final_sijia"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final_sijia/fast">
+				<Option output="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/cmake-build-debug/final_sijia" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 final_sijia/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sijia/Documents/9815_Software_engineering_for_finance/Final\ Project/final_sijia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/algoexecutionservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/algostreamingservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/bondexecutionservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/bondstreamingservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/executionservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/guiservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/historicaldataservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/inquiryservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/main.cpp">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/marketdataservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/positionservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/pricingservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/products.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/riskservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/soa.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/streamingservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/support.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/tradebookingservice.h">
+			<Option target="final_sijia"/>
+		</Unit>
+		<Unit filename="/home/sijia/Documents/9815_Software_engineering_for_finance/Final Project/final_sijia/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

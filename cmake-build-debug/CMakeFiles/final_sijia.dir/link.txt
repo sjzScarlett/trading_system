@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/final_sijia.dir/main.cpp.o  -o final_sijia 
